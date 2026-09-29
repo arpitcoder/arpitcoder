@@ -1,6 +1,6 @@
 # arpit nigam
 
-founder @ [gotoursafe.xyz](https://gotoursafe.xyz) + MavOps
+founder @ [gotoursafe.xyz](https://gotoursafe.xyz) + MavOps (https://mavops.xyz)
 
 <!-- swap the placeholders below with your real MavOps site + linkedin url before you push updates -->
 
